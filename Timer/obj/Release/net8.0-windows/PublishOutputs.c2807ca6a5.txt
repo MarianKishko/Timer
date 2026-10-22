@@ -1,0 +1,5 @@
+D:\MyProgramProjects\Timer\Timer\bin\Release\net8.0-windows\app.publish\Timer.exe
+D:\MyProgramProjects\Timer\Timer\bin\Release\net8.0-windows\app.publish\Timer.dll
+D:\MyProgramProjects\Timer\Timer\bin\Release\net8.0-windows\app.publish\Timer.deps.json
+D:\MyProgramProjects\Timer\Timer\bin\Release\net8.0-windows\app.publish\Timer.runtimeconfig.json
+D:\MyProgramProjects\Timer\Timer\bin\Release\net8.0-windows\app.publish\Timer.pdb

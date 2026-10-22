@@ -1,0 +1,17 @@
+D:\MyProgramProjects\Timer\Timer\bin\Debug\net8.0-windows\Timer.exe
+D:\MyProgramProjects\Timer\Timer\bin\Debug\net8.0-windows\Timer.deps.json
+D:\MyProgramProjects\Timer\Timer\bin\Debug\net8.0-windows\Timer.runtimeconfig.json
+D:\MyProgramProjects\Timer\Timer\bin\Debug\net8.0-windows\Timer.dll
+D:\MyProgramProjects\Timer\Timer\bin\Debug\net8.0-windows\Timer.pdb
+D:\MyProgramProjects\Timer\Timer\obj\Debug\net8.0-windows\Timer.Form1.resources
+D:\MyProgramProjects\Timer\Timer\obj\Debug\net8.0-windows\Timer.csproj.GenerateResource.cache
+D:\MyProgramProjects\Timer\Timer\obj\Debug\net8.0-windows\Timer.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProgramProjects\Timer\Timer\obj\Debug\net8.0-windows\Timer.AssemblyInfoInputs.cache
+D:\MyProgramProjects\Timer\Timer\obj\Debug\net8.0-windows\Timer.AssemblyInfo.cs
+D:\MyProgramProjects\Timer\Timer\obj\Debug\net8.0-windows\Timer.csproj.CoreCompileInputs.cache
+D:\MyProgramProjects\Timer\Timer\obj\Debug\net8.0-windows\Timer.dll
+D:\MyProgramProjects\Timer\Timer\obj\Debug\net8.0-windows\refint\Timer.dll
+D:\MyProgramProjects\Timer\Timer\obj\Debug\net8.0-windows\Timer.pdb
+D:\MyProgramProjects\Timer\Timer\obj\Debug\net8.0-windows\Timer.genruntimeconfig.cache
+D:\MyProgramProjects\Timer\Timer\obj\Debug\net8.0-windows\ref\Timer.dll
+D:\MyProgramProjects\Timer\Timer\obj\Debug\net8.0-windows\Timer.CreateNewTimer.resources
